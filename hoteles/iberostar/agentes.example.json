@@ -1,0 +1,12 @@
+{
+    "Agente Ejemplo 1": {
+        "code": "XXXX",
+        "password": "cambiar",
+        "necesita_puntos": true
+    },
+    "Agente Ejemplo 2": {
+        "code": "YYYY",
+        "password": "cambiar",
+        "necesita_puntos": false
+    }
+}

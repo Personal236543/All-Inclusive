@@ -1,0 +1,22 @@
+# Secretos
+.env
+hoteles/iberostar/agentes.json
+
+# Datos de ejecucion (contienen informacion de clientes)
+invoices/
+logs/
+json/
+*.csv
+*.xlsx
+!examples/*.csv
+script_execution_log.csv
+vax/sumaries/
+vax/processed_sumaries/
+
+# Binarios / entorno
+chromedriver*
+__pycache__/
+*.pyc
+.venv/
+.vscode/
+developing/

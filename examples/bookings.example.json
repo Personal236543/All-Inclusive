@@ -1,0 +1,24 @@
+[
+    {
+        "Booking Number": "000001TP",
+        "Client Name": "Jane Doe",
+        "Date Entered": "01/15/2026",
+        "Departure Date": "03/10/2026",
+        "Supplier": "Travel Impressions",
+        "Destination": "CUN",
+        "Return Date": "03/15/2026",
+        "Supplier Price": "2,450.00",
+        "Passengers": [
+            {"First Name": "Jane", "Last Name": "Doe", "Age": "34", "Type": "adult"},
+            {"First Name": "John", "Last Name": "Doe", "Age": "36", "Type": "adult"}
+        ],
+        "Hotels": [
+            {
+                "Hotel Name": "Margaritaville Island Reserve Riviera Maya - Adults Only",
+                "Room Type": "King Paradise Room",
+                "Duration": "5"
+            }
+        ],
+        "Airline": "Example Air"
+    }
+]
